@@ -1,1 +1,1 @@
-#fortune-cookie
+Simple counter built in Rust framework, Yew
