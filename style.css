@@ -14,12 +14,11 @@ p {
 }
 
 button {
-    width: 50%;
+    width: 200px;
     height: 200px;
     font-size: 8em;
     font-family: Cubano;
     color: white;
     text-align: center;
-    background-color: #555555;
-    border-width: 8px;
+    background-color: transparent;
 }

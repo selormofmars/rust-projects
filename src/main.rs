@@ -22,7 +22,7 @@ fn app() -> Html{
 
     html! {
         <div>
-            <button {onclick}>{"+1"}</button>
+            <button {onclick}>{"\u{1F960}"}</button>
             <p>{ state.value}</p>
         </div>
     }
