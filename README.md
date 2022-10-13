@@ -1,1 +1,1 @@
-Simple counter built in Rust framework, Yew
+Implementing a fortune cookie using Rust and Yew framework
